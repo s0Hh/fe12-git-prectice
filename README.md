@@ -1,1 +1,1 @@
-# fe12-git-prectice
+# fe12-git-practice
